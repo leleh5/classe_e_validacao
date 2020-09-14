@@ -1,0 +1,10 @@
+C:\Users\lelir\source\repos\classe_e_validacao\classe_e_validacao\bin\Debug\classe_e_validacao.exe.config
+C:\Users\lelir\source\repos\classe_e_validacao\classe_e_validacao\bin\Debug\classe_e_validacao.exe
+C:\Users\lelir\source\repos\classe_e_validacao\classe_e_validacao\bin\Debug\classe_e_validacao.pdb
+C:\Users\lelir\source\repos\classe_e_validacao\classe_e_validacao\obj\Debug\classe_e_validacao.csprojAssemblyReference.cache
+C:\Users\lelir\source\repos\classe_e_validacao\classe_e_validacao\obj\Debug\classe_e_validacao.Properties.Resources.resources
+C:\Users\lelir\source\repos\classe_e_validacao\classe_e_validacao\obj\Debug\classe_e_validacao.csproj.GenerateResource.cache
+C:\Users\lelir\source\repos\classe_e_validacao\classe_e_validacao\obj\Debug\classe_e_validacao.csproj.CoreCompileInputs.cache
+C:\Users\lelir\source\repos\classe_e_validacao\classe_e_validacao\obj\Debug\classe_e_validacao.exe
+C:\Users\lelir\source\repos\classe_e_validacao\classe_e_validacao\obj\Debug\classe_e_validacao.pdb
+C:\Users\lelir\source\repos\classe_e_validacao\classe_e_validacao\obj\Debug\classe_e_validacao.Form1.resources
